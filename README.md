@@ -21,7 +21,7 @@ My personal portfolio website showcasing my projects, skills, and contact inform
 
 ## Get In Touch
 
-Feel free to reach out to me via email at gauravkatara53@gmail.com or on Twitter @gauravkatara53.
+Feel free to reach out to me via email at or on Twitter @gauravkatara53.
 
 ## Contributing
 
