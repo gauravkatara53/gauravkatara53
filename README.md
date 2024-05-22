@@ -5,7 +5,7 @@ I’m @gauravkatara53, and here’s a bit about me:
 - 👀 I’m interested in web development, AI, and open source.
 - 🌱 I’m currently learning React and Node.js.
 - 💞️ I’m looking to collaborate on web apps and open source projects.
-- 📫 How to reach me: gaurav@example.com or @gauravkatara53 on Twitter.
+- 📫 How to reach me: gauravkatara53@gmail.com or @gauravkatara53 on Twitter.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I love hiking and photography.
 
@@ -21,7 +21,7 @@ My personal portfolio website showcasing my projects, skills, and contact inform
 
 ## Get In Touch
 
-Feel free to reach out to me via email at or on Twitter @gauravkatara53.
+Feel free to reach out to me via email at gauravkatara53@gmail.com or on Twitter @gauravkatara53.
 
 ## Contributing
 
@@ -30,9 +30,3 @@ If you’re interested in contributing to any of my projects, please reach out o
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
-<!---
-gauravkatara53/gauravkatara53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
