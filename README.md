@@ -27,6 +27,3 @@ Feel free to reach out to me via email at gauravkatara53@gmail.com or on Twitter
 
 If you’re interested in contributing to any of my projects, please reach out or fork a project and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
