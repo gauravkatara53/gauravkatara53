@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gaurav Katara</h1>
 <h3 align="center">Sophomore at NITJSR // Open-Source, Web Development, Data Structures and Algorithms, Networks, Python</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravkatara53&label=Profile%20views&color=0e75b6&style=flat" alt="gauravkatara53" /> </p>
 
 
 
 <p align="left"> <a href="https://twitter.com/gauravk625" target="blank"><img src="https://img.shields.io/twitter/follow/gauravk625?logo=twitter&style=for-the-badge" alt="gauravk625" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/gauravkatara/" target="blank"><img src="https://img.shields.io/linkdin/follow/gauravkatara?logo=linkdin&style=for-the-badge" alt="gauravkatara" /></a> </p>
 
 - 🔭 I’m currently working on [Topic](https://github.com/gauravkatara53/Topic)
 
