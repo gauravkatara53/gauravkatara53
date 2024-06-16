@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/gauravk625" target="blank"><img src="https://img.shields.io/twitter/follow/gauravk625?logo=twitter&style=for-the-badge" alt="gauravk625" /></a> </p>
 
 
-- 🔭 I’m currently working on [Topic](https://github.com/gauravkatara53/Topic)
+- 🔭 I’m currently working on [Topic 2.O](https://github.com/gauravkatara53/Learning_app)
 
 - 🌱 I’m currently learning **React, Node.Js**
 
