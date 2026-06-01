@@ -1,29 +1,127 @@
+```md
 # Hi 👋, I'm Gaurav Katara
 
-### Full Stack Developer |  DevOps & Cloud 
+### Software Engineer | AI Engineer | Backend Developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravkatara53" alt="gauravkatara53" /></a> </p>
+🎓 Pre-Final Year B.Tech Student at NIT Jamshedpur  
+💻 Passionate about Machine Learning, Backend Development, Distributed Systems, and Problem Solving  
+🚀 Building scalable products that solve real-world problems
 
-- 🔭 I'm currently working on **I am currently working on a web application that collects and provides detailed information about colleges, helping students make informed academic decisions.**
+---
 
-- 🌱 I'm currently learning **I’m currently learning Data Science to enhance my analytical and technical skills.**
+## 👨‍💻 About Me
 
-- 📫 How to reach me **gauravkatara53@gmail.com**
+- 🎓 B.Tech in Metallurgical & Materials Engineering @ NIT Jamshedpur
+- 🤖 Amazon ML Summer School Participant
+- 💼 Former AI Engineer Intern at Ricoz
+- 🏆 3rd Place in CODEIC Coding Competition (700+ Participants)
+- 🧠 Solved 900+ DSA Problems
+- 📈 LeetCode Rating: 1662
+- 🌱 Currently learning System Design, MLOps, and Distributed Systems
 
-- 👨‍💻 All of my projects are available at **[https://gauravkatara53.vercel.app/](https://gauravkatara53.vercel.app/)**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/gauravkatara53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="gauravkatara53" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gauravkatara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gauravkatara" height="30" width="40" /></a>
-</p>
+## 🛠️ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+### Languages
+- Python
+- C++
+- TypeScript
+- JavaScript
+- SQL
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravkatara53&show_icons=true&locale=en&layout=compact" alt="gauravkatara53" /></p>
+### Backend & Infrastructure
+- Node.js
+- Express.js
+- Redis
+- Docker
+- AWS (S3, EC2)
+- REST APIs
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravkatara53&show_icons=true&locale=en" alt="gauravkatara53" /></p>
+### Databases
+- PostgreSQL
+- MongoDB
+- Prisma ORM
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravkatara53&" alt="gauravkatara53" /></p>
+### AI & Data
+- Pandas
+- NumPy
+- Scikit-Learn
+- Gemini API
+- Groq API
+- Machine Learning
 
+### Frontend
+- React.js
+- Next.js
+- Tailwind CSS
+
+---
+
+## 🚀 Featured Projects
+
+### 🎯 PNC Square
+Machine Learning powered college analytics platform.
+
+- Built a Weighted College Predictor serving 160K+ monthly users
+- Implemented L1 NodeCache + L2 Redis caching architecture
+- Reduced API response time by 85%
+- Designed secure financial transaction verification system
+
+### 🤖 Topic
+AI-powered academic platform for students.
+
+- Hybrid Resume Parsing Engine using Gemini & Groq
+- SM-2 based DSA Revision Algorithm
+- Attendance Scraping System
+- Background Workers & Smart Caching
+
+### 🏭 Warehouse Automation Platform
+
+- Automated billing engine for 5,000+ warehouses
+- KYC processing pipeline handling 10,000+ uploads
+- Reduced manual operations by 50%
+- Built scalable backend services
+
+---
+
+## 📊 Coding Profiles
+
+- 💻 LeetCode
+- 🟢 GeeksforGeeks
+- 🔵 Codeforces
+
+---
+
+## 🏆 Achievements
+
+- Solved 900+ DSA Problems
+- LeetCode Rating: 1662
+- 3rd Place in CODEIC Coding Competition (700+ Participants)
+- Amazon ML Summer School Participant
+- Web Head, OJASS Fest
+
+---
+
+## 📈 GitHub Stats
+
+![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravkatara53&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkatara53&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gauravkatara53&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: gauravkatara53@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/gauravkatara
+- 🐙 GitHub: https://github.com/gauravkatara53
+
+---
+
+### 💡 Quote
+
+> Building scalable systems, leveraging AI, and solving challenging engineering problems.
+```
